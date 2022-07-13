@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.margin{
+    margin-bottom: 100px;
+}
+.banner{
+    background-image: url(images/cow\ 01.jpg);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-shadow: 10px 10px 30px black;
+}
+.heading-text{
+    color: #ffffff;
+    font-size: 25px;
+    padding-top: 120px;
+    padding-left: 120px;
+}
+.link-button{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+}
+.flexible-container-p{
+    display: flex;
+    width: 80%;
+    margin: 10%;
+}
+.container{
+    display: flex;
+    width: 70%;
+    margin-left: 15%;
+}
+.flexible-container-c{
+    display: flex;
+    width: 99%;
+    margin: 1%;
+    border-radius: 2%;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    font-size: 23px;
+}
+.half-width img{
+    width: 100%;
+}
+.section-text{
+    text-align: center;
+}
+.flexbox1{
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+}
+.images{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+.images img{
+    width: 98%;
+    margin: 2%;
+    border-radius: 2%;
+}
+.item{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+.item-img img{
+    width: 100%;
+    border-radius: 2%;
+}
+.item-img{
+    width: 99%;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 2%;
+    box-shadow: 10px 10px 30px gray;
+}
+.foot{
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    height: 150px;
+}
